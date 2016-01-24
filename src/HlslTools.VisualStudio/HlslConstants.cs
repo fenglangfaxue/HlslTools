@@ -10,6 +10,7 @@
         public const string FileExtension4 = ".fxh";
         public const string FileExtension5 = ".vsh";
         public const string FileExtension6 = ".psh";
+        public const string FileExtension7 = ".usf";
 
         public static string[] FileExtensions =
         {
@@ -18,7 +19,8 @@
             FileExtension3,
             FileExtension4,
             FileExtension5,
-            FileExtension6
+            FileExtension6,
+            FileExtension7
         };
 
         public const string ContentTypeName = "HLSL";

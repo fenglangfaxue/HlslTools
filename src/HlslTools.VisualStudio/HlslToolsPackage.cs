@@ -36,6 +36,7 @@ namespace HlslTools.VisualStudio
     [ProvideLanguageExtension(typeof(HlslLanguageInfo), HlslConstants.FileExtension4)]
     [ProvideLanguageExtension(typeof(HlslLanguageInfo), HlslConstants.FileExtension5)]
     [ProvideLanguageExtension(typeof(HlslLanguageInfo), HlslConstants.FileExtension6)]
+    [ProvideLanguageExtension(typeof(HlslLanguageInfo), HlslConstants.FileExtension7)]
 
     [ProvideBraceCompletion(HlslConstants.LanguageName)]
     [ProvideMenuResource("Menus.ctmenu", 1)]
